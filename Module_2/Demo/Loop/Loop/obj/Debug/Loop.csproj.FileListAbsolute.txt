@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\bin\Debug\Loop.exe.config
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\bin\Debug\Loop.exe
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\bin\Debug\Loop.pdb
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\obj\Debug\Loop.exe
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\obj\Debug\Loop.pdb
+E:\RKIT_Training\Module_2\Demo\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
