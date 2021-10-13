@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\bin\Debug\Operators.exe.config
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\bin\Debug\Operators.exe
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\bin\Debug\Operators.pdb
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\obj\Debug\Operators.exe
+E:\RKIT_Training\Module_2\Demo\Operators\Operators\obj\Debug\Operators.pdb
