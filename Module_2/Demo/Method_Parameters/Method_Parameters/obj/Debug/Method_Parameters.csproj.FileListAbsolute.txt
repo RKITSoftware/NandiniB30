@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\obj\Debug\Method_Parameters.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\obj\Debug\Method_Parameters.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\bin\Debug\Method_Parameters.exe.config
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\bin\Debug\Method_Parameters.exe
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\bin\Debug\Method_Parameters.pdb
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\obj\Debug\Method_Parameters.exe
+E:\RKIT_Training\Module_2\Demo\Method_Parameters\Method_Parameters\obj\Debug\Method_Parameters.pdb
