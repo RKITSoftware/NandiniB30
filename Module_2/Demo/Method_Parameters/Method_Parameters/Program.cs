@@ -6,16 +6,16 @@ namespace Method_Parameters
     {
 		static void Main(string[] args)
 		{
-            #region value-type parameter
+            		#region value-type parameter
 
-            // The value of the parameter is already assigned
-            int operand_1 = 4;
+           		// The value of the parameter is already assigned
+           		int operand_1 = 4;
 			int operand_2 = 5;
 
-            //method 'multiply' is called
+           		//method 'multiply' is called
 			int result = multiply(operand_1, operand_2);
 			Console.WriteLine(result);
-            Console.ReadLine();
+            		Console.ReadLine();
 			#endregion value-type parameter
 
 
@@ -57,10 +57,10 @@ namespace Method_Parameters
 			#endregion out parameter
 		}
 
-        public static int multiply(int input_1, int input_2)
-			{
-				return input_1 * input_2;
-            }
+        	public static int multiply(int input_1, int input_2)
+		{
+			return input_1 * input_2;
+            	}
 
 		public static void ChangeName(ref string ref_name)
 		{
