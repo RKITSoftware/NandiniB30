@@ -14,9 +14,9 @@ namespace DatetimeDemo
             DateTime todaysDate = DateTime.Today;
             Console.WriteLine("Today's Date : " + todaysDate);
 
-            //return default value 01/01/0001 00:00:00
-            DateTime defaultDateValue = new DateTime();
-            Console.WriteLine("Set Default Date : " + defaultDateValue);
+            //return default : 01/01/0001 00:00:00
+            DateTime defaultDate = new DateTime();
+            Console.WriteLine("Set Default Date : " + defaultDate);
 
             //set the date : year, month, day
             DateTime setDateValue = new DateTime(2021, 10, 13);
