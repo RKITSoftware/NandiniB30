@@ -11,7 +11,6 @@ namespace Loop
             int j = 1;
             int k = 1;
             string[] branches = { "computer", "mechanical", "civil", "automobile", "electric", "electronics"};
-
             #endregion declaration
 
             #region for loop
