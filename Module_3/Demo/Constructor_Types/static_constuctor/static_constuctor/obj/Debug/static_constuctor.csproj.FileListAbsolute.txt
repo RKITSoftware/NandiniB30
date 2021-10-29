@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\obj\Debug\static_constuctor.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\obj\Debug\static_constuctor.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\bin\Debug\static_constuctor.exe.config
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\bin\Debug\static_constuctor.exe
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\bin\Debug\static_constuctor.pdb
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\obj\Debug\static_constuctor.exe
+E:\RKIT_Training\Module_3\Demo\static_constuctor\static_constuctor\obj\Debug\static_constuctor.pdb

@@ -1,0 +1,6 @@
+E:\RKIT_Training\Module_3\Demo\Default_Constructor\Default_Constructor\bin\Debug\Default_Constructor.exe.config
+E:\RKIT_Training\Module_3\Demo\Default_Constructor\Default_Constructor\bin\Debug\Default_Constructor.exe
+E:\RKIT_Training\Module_3\Demo\Default_Constructor\Default_Constructor\bin\Debug\Default_Constructor.pdb
+E:\RKIT_Training\Module_3\Demo\Default_Constructor\Default_Constructor\obj\Debug\Default_Constructor.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\Default_Constructor\Default_Constructor\obj\Debug\Default_Constructor.exe
+E:\RKIT_Training\Module_3\Demo\Default_Constructor\Default_Constructor\obj\Debug\Default_Constructor.pdb
