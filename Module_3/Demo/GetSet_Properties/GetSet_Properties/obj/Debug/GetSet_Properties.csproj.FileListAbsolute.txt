@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\obj\Debug\GetSet_Properties.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\obj\Debug\GetSet_Properties.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\bin\Debug\GetSet_Properties.exe.config
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\bin\Debug\GetSet_Properties.exe
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\bin\Debug\GetSet_Properties.pdb
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\obj\Debug\GetSet_Properties.exe
+E:\RKIT_Training\Module_3\Demo\GetSet_Properties\GetSet_Properties\obj\Debug\GetSet_Properties.pdb
