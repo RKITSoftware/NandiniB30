@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_3\Demo\List\List\bin\Debug\List.exe.config
+E:\RKIT_Training\Module_3\Demo\List\List\bin\Debug\List.exe
+E:\RKIT_Training\Module_3\Demo\List\List\bin\Debug\List.pdb
+E:\RKIT_Training\Module_3\Demo\List\List\obj\Debug\List.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_3\Demo\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\List\List\obj\Debug\List.exe
+E:\RKIT_Training\Module_3\Demo\List\List\obj\Debug\List.pdb
