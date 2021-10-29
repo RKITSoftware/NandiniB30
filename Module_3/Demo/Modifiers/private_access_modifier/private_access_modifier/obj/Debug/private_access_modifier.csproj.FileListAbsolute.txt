@@ -1,0 +1,6 @@
+E:\RKIT_Training\Module_3\Demo\private_access_modifier\private_access_modifier\bin\Debug\private_access_modifier.exe.config
+E:\RKIT_Training\Module_3\Demo\private_access_modifier\private_access_modifier\bin\Debug\private_access_modifier.exe
+E:\RKIT_Training\Module_3\Demo\private_access_modifier\private_access_modifier\bin\Debug\private_access_modifier.pdb
+E:\RKIT_Training\Module_3\Demo\private_access_modifier\private_access_modifier\obj\Debug\private_access_modifier.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\private_access_modifier\private_access_modifier\obj\Debug\private_access_modifier.exe
+E:\RKIT_Training\Module_3\Demo\private_access_modifier\private_access_modifier\obj\Debug\private_access_modifier.pdb
