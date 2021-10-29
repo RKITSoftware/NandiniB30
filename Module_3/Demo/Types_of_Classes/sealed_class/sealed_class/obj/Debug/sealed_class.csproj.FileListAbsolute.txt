@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\obj\Debug\sealed_class.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\obj\Debug\sealed_class.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\bin\Debug\sealed_class.exe.config
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\bin\Debug\sealed_class.exe
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\bin\Debug\sealed_class.pdb
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\obj\Debug\sealed_class.exe
+E:\RKIT_Training\Module_3\Demo\sealed_class\sealed_class\obj\Debug\sealed_class.pdb
