@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\obj\Debug\Event_demo.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\obj\Debug\Event_demo.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\bin\Debug\Event_demo.exe.config
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\bin\Debug\Event_demo.exe
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\bin\Debug\Event_demo.pdb
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\obj\Debug\Event_demo.exe
+E:\RKIT_Training\Module_3\Demo\Event_demo\Event_demo\obj\Debug\Event_demo.pdb
