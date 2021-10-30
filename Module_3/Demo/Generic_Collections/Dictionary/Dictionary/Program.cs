@@ -33,9 +33,7 @@ public class generic_Dictionary
         //use ElementAt() to retrieve key-value pair using index
         for (int i = 0; i < fruits.Count; i++)
         {
-            Console.WriteLine("Key: {0}, Value: {1}",
-                                                    fruits.ElementAt(i).Key,
-                                                    fruits.ElementAt(i).Value);
+            Console.WriteLine("Key: {0}, Value: {1}", fruits.ElementAt(i).Key, fruits.ElementAt(i).Value);
         }
 
         // update the dictionary
