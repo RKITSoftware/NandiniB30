@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\bin\Debug\ArgumentOutOfRangeException.exe.config
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\bin\Debug\ArgumentOutOfRangeException.exe
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\bin\Debug\ArgumentOutOfRangeException.pdb
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\obj\Debug\ArgumentOutOfRangeException.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\obj\Debug\ArgumentOutOfRangeException.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\obj\Debug\ArgumentOutOfRangeException.exe
+E:\RKIT_Training\Module_4\Demo\Exception\ArgumentOutOfRangeException\ArgumentOutOfRangeException\obj\Debug\ArgumentOutOfRangeException.pdb

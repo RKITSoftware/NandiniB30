@@ -1,0 +1,5 @@
+I am Nandini.
+I am making a demo file.
+First entry: File operations
+
+New entry:Appended text

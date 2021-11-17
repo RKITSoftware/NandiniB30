@@ -1,0 +1,7 @@
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\bin\Debug\Methods_of_File_class.exe.config
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\bin\Debug\Methods_of_File_class.exe
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\bin\Debug\Methods_of_File_class.pdb
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\obj\Debug\Methods_of_File_class.csprojAssemblyReference.cache
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\obj\Debug\Methods_of_File_class.csproj.CoreCompileInputs.cache
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\obj\Debug\Methods_of_File_class.exe
+E:\RKIT_Training\Module_4\Demo\File_Operations\Methods_of_File_class\Methods_of_File_class\obj\Debug\Methods_of_File_class.pdb
