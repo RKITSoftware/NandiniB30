@@ -1,0 +1,23 @@
+﻿
+@model MyFirstMVCApp.Models.StudentData
+@{
+    ViewBag.Title = "Show The Student Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Showing the Student Records.</h3>
+<table border="1">
+    <tr>
+        <td width="150"><b>Enroll No.</b></td>
+        <td width="150"><b>Student Name</b></td>
+        <td width="150"><b>Branch</b></td>
+    </tr>
+    @foreach(var Stu in Model.listStudent)
+    {
+        <tr>
+            <td>@Stu.id</td>
+            <td>@Stu.Name</td>
+            <td>@Stu.Branch</td>
+        </tr>
+    }
+</table>
