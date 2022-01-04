@@ -12,21 +12,21 @@ namespace CRUD_Demo.Controllers
     {
         database_DB objdatabase = new database_DB();
 
-        // GET: api/Book
+        // GET: api/Tutor
         [Route("api/Getall")]
         public List<Tutor> GetAll()
         {
             return (objdatabase.selectAll());
         }
 
-        // GET: api/Book/5
+        // GET: api/Tutor/5
         [Route("api/Get/{id}")]
         public Tutor Get(int id)
         {
             return (objdatabase.getTutorById(id));
         }
 
-        // POST: api/Book
+        // POST: api/Tutor
         [HttpPost]
         [Route("api/Add")]
         public void Add([FromBody]Tutor tutoring)
@@ -41,7 +41,7 @@ namespace CRUD_Demo.Controllers
             objdatabase.updateTutor(tutoring);
         }
 
-        // DELETE: api/Book/5
+        // DELETE: api/Tutor/5
         [Route("api/Delete/{id}")]
         public void Delete(int id)
         {
