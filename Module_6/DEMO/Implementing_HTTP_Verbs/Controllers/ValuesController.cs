@@ -30,7 +30,7 @@ namespace Implementing_HTTP_Verbs.Controllers
         /// <summary>
         /// Get all the book data
         /// </summary>
-        /// <param name="id">
+        /// <param name="id"> id is an unique identifier
         /// Book model field- id,value
         /// </param>
         /// <returns>
@@ -46,7 +46,7 @@ namespace Implementing_HTTP_Verbs.Controllers
         /// <summary>
         /// Insert book data
         /// </summary>
-        /// <param name="value">
+        /// <param name="value">value contains the name of the book
         /// Book model field- id,value
         /// </param>
         [HttpPost]
@@ -59,8 +59,8 @@ namespace Implementing_HTTP_Verbs.Controllers
         /// <summary>
         /// Update book data: book with parameter 'id' is updated with book of parameter 'value'
         /// </summary>
-        /// <param name="id"></param>
-        /// <param name="value"></param>
+        /// <param name="id">id is an unique identifier</param>
+        /// <param name="value">value contains the name of the book</param>
         [HttpPut]
         [Route("int:id")]
         public void Put(int id, [FromBody] string value)
@@ -71,7 +71,7 @@ namespace Implementing_HTTP_Verbs.Controllers
         /// <summary>
         /// Delete a book data with particular parameter 'id'
         /// </summary>
-        /// <param name="id">
+        /// <param name="id">id is an unique identifier
         /// Book model field- id,value
         /// </param>
         [Route("int:id")]
