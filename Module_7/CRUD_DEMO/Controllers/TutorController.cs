@@ -24,7 +24,7 @@ namespace CRUD_Demo.Controllers
         /// <summary>
         /// Get tutor data of particular parameter 'id'
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">id is an unique identifier</param>
         /// <returns>
         /// returns tutor data according to the ID
         /// </returns>
@@ -63,7 +63,7 @@ namespace CRUD_Demo.Controllers
         }
 
         /// <summary>
-        /// Delete tutor data with parameter 'id'
+        /// Delete tutor data with parameter 'id', where id is an unique identifier
         /// </summary>
         [HttpDelete]
         [Route("api/Delete/{id}")]
