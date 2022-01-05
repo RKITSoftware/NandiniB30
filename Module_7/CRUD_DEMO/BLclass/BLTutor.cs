@@ -52,9 +52,9 @@ namespace CRUD_Demo
         }
 
         /// <summary>
-        /// Get Tutor data by Id
+        /// Get Tutor data by Id using getTutorById
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">id is a unique identifier</param>
         /// <returns>One record of Tutor according to the id</returns>
         public Tutor getTutorById(int id)
         {
@@ -92,9 +92,9 @@ namespace CRUD_Demo
         }
 
         /// <summary>
-        /// Insert new tutor data
+        /// Insert new tutor data using addTutor
         /// </summary>
-        /// <param name="tutuoring"></param>
+        /// <param name="tutuoring">tutoring is an object of Tutor</param>
         /// <returns>String to notify Success of operation </returns>
         public string addTutor(Tutor tutoring)
         {
@@ -131,9 +131,9 @@ namespace CRUD_Demo
         }
 
         /// <summary>
-        /// Update Tutor data from table
+        /// Update Tutor data from table using updateTutor
         /// </summary>
-        /// <param name="tutoring"></param>
+        /// <param name="tutoring">tutoring is an object of Tutor</param>
         /// <returns>String to notify Success of operation </returns> 
         public string updateTutor(Tutor tutoring)
         {
@@ -170,9 +170,9 @@ namespace CRUD_Demo
         }
 
         /// <summary>
-        ///Delete Tutor data from table
+        ///Delete Tutor data from table using deleteTutor
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">id is a unique identifier</param>
         /// <returns>String to notify Success of operation </returns>
         public string deleteTutor(int id)
         {
